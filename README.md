@@ -2,6 +2,7 @@
 
 
 Membuat Aplikasi Sederhana (Aplikasi CRUD Data Obat) dengan BlueJ dan Sqlite3
+https://youtu.be/l7p1WInUAjI
 
 
 
