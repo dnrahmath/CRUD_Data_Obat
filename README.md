@@ -35,16 +35,16 @@ Kami akan mempresentasikan Program yang kami buat yaitu Aplikasi CRUD Data Obat 
 
 Link Download komponen-komponen yang kami gunakan :
 
-1. BlueJ
+1. BlueJ   :   
 www.bluej.org/download/files/BlueJ-windows-422.msi
 
-2. Sqlite JDBC
+2. Sqlite JDBC   :   
 www.java2s.com/Code/JarDownload/sqlite/sqlite-jdbc-3.7.2.jar.zip
 
-3. Sqlite3
+3. Sqlite3   :   
 www.sqlite.org/2020/sqlite-tools-win32-x86-3340000.zip
 
-4. Source Code Java Files
+4. Source Code Java Files   :   
 github.com/dnrahmath/CRUD_Data_Obat
 
 
