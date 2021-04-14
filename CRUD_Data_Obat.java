@@ -16,6 +16,8 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import java.awt.FlowLayout;
 
+//ini bertambah
+
 //button
 import java.awt.event.*; 
 import javax.swing.*; 
