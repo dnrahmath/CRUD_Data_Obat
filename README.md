@@ -7,7 +7,7 @@ https://youtu.be/l7p1WInUAjI
 
 
 Assalamu'alaikum wr.wb.
-Halo, Kawan Semua...
+Halo, Kawan Semua..
 
 
 
