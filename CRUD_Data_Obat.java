@@ -16,7 +16,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import java.awt.FlowLayout;
 
-//ini bertambah 1 dua tiga 4 fff
+//ini bertambah 1 dua tiga 4 fffgggg
 
 //button
 import java.awt.event.*; 
